@@ -3,3 +3,4 @@ def plus(a,b):
   print("sum:",sum)
 
 plus(10,20)
+print("VVCE")
