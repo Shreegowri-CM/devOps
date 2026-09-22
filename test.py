@@ -1,5 +1,5 @@
-def add(a,b):
+def plus(a,b):
   sum = a+b
   print("sum:",sum)
 
-add(10,20)
+plus(10,20)
